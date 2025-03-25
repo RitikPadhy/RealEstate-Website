@@ -2,7 +2,7 @@
 import React from 'react';
 
 //import image
-import Image from '../assets/img/Enterprises.png';
+import Image from '../assets/img/house-banner.png';
 
 //import components
 import Search from '../components/Search'

@@ -68,7 +68,7 @@ const PropertyDetails = () => {
                   <Link to='' className='text-violet-700 text-sm'>View Listings</Link>
                 </div>
               </div>
-              {/*forms*/}d
+              {/*forms*/}
               <form className='flex flex-col gap-y-4'>
                 <input className='border border-gray-300 focus:border-violet-700 outline-none rounded w-full px-4 h-14 text-sm' type='text' placeholder='Name*'/>
                 {/*defines the name of the user in the form, and it days on the clicking on this input the focus state is switched on,outline means a line outside the border */}

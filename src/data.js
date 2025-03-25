@@ -60,7 +60,7 @@ export const housesData = [
     type: 'House',
     name: 'House 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Tucked away in the heart of the mountains, this cozy log cabin is surrounded by dense pine forests and winding trails. The crisp mountain air carries the scent of fresh earth and wood, while a nearby brook adds a soothing melody. In winter, snow blankets the landscape, turning it into a breathtaking wonderland.',
     image: House1,
     imageLg: House1Lg,
     country: 'United States',
@@ -81,7 +81,7 @@ export const housesData = [
     type: 'House',
     name: 'House 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'This charming cottage sits along the coastline, where the salty breeze and rhythmic waves create a peaceful escape. Seagulls glide overhead as the golden sun dips into the horizon, painting the sky in shades of orange and pink. The sandy shore is just steps away, perfect for morning walks or evening bonfires.',
     image: House2,
     imageLg: House2Lg,
     country: 'Canada',
@@ -102,7 +102,7 @@ export const housesData = [
     type: 'House',
     name: 'House 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Nestled in a bustling city, this modern high-rise apartment offers sweeping skyline views and endless energy. From the balcony, neon lights flicker, and the hum of life below creates an electrifying atmosphere. Trendy cafes, restaurants, and cultural hotspots are just a short walk away.',
     image: House3,
     imageLg: House3Lg,
     country: 'United States',
@@ -123,7 +123,7 @@ export const housesData = [
     type: 'House',
     name: 'House 4',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Sitting on the edge of a tranquil lake, this wooden retreat provides the perfect setting for relaxation and reflection. Ducks glide effortlessly across the glassy water, and a private dock invites lazy afternoons of fishing. In the evenings, the setting sun casts golden ripples over the serene surface.',
     image: House4,
     imageLg: House4Lg,
     country: 'Canada',
@@ -144,7 +144,7 @@ export const housesData = [
     type: 'House',
     name: 'House 5',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Surrounded by vast rolling fields and endless meadows, this countryside farmhouse is a haven of peace. Wildflowers bloom along the fences, and horses graze lazily under the wide blue sky. The gentle rustling of trees and the distant mooing of cattle complete the idyllic rural setting.',
     image: House5,
     imageLg: House5Lg,
     country: 'United States',
@@ -165,7 +165,7 @@ export const housesData = [
     type: 'House',
     name: 'House 6',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Perched on a hilltop, this grand estate commands breathtaking views of the valley below. The rising sun bathes the landscape in golden light, while cool breezes sweep through the open terraces. At night, the twinkling city lights in the distance create a mesmerizing backdrop.',
     image: House6,
     imageLg: House6Lg,
     country: 'Canada',
@@ -186,7 +186,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 1',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Hidden deep within an ancient forest, this secluded cabin offers a magical escape from the modern world. Towering trees form a natural canopy, filtering sunlight into soft, golden beams. The sounds of rustling leaves and chirping birds bring a sense of serenity and harmony.',
     image: Apartment1,
     imageLg: Apartment1Lg,
     country: 'Canada',
@@ -207,7 +207,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 2',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Built in the heart of a sun-soaked desert, this adobe-style home blends seamlessly with the rugged landscape. The warm, earthen walls retain coolness against the scorching sun, while cacti and wildflowers dot the surroundings. At night, a blanket of stars stretches endlessly over the vast, open sky.',
     image: Apartment2,
     imageLg: Apartment2Lg,
     country: 'United States',
@@ -228,7 +228,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 3',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Set on the banks of a winding river, this charming home is surrounded by lush greenery and the soothing sound of flowing water. Wooden bridges and stone pathways lead to peaceful nooks perfect for quiet moments. The gentle sway of willows by the shore adds a touch of romance to the scenery.',
     image: Apartment3,
     imageLg: Apartment3Lg,
     country: 'United States',
@@ -249,7 +249,7 @@ export const housesData = [
     type: 'House',
     name: 'House 7',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Enveloped by a tropical paradise, this island villa is a dream escape filled with swaying palms and crystal-clear waters. The scent of blooming hibiscus lingers in the warm air, and vibrant birds add bursts of color to the sky. Just beyond the garden, soft white sand leads to an endless turquoise ocean.',
     image: House7,
     imageLg: House7Lg,
     country: 'Canada',
@@ -270,7 +270,7 @@ export const housesData = [
     type: 'House',
     name: 'House 8',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'This charming cottage sits along the coastline, where the salty breeze and rhythmic waves create a peaceful escape. Seagulls glide overhead as the golden sun dips into the horizon, painting the sky in shades of orange and pink. The sandy shore is just steps away, perfect for morning walks or evening bonfires.',
     image: House8,
     imageLg: House8Lg,
     country: 'Canada',
@@ -291,7 +291,7 @@ export const housesData = [
     type: 'House',
     name: 'House 9',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Tucked away in the heart of the mountains, this cozy log cabin is surrounded by dense pine forests and winding trails. The crisp mountain air carries the scent of fresh earth and wood, while a nearby brook adds a soothing melody. In winter, snow blankets the landscape, turning it into a breathtaking wonderland.',
     image: House9,
     imageLg: House9Lg,
     country: 'United States',
@@ -312,7 +312,7 @@ export const housesData = [
     type: 'House',
     name: 'House 10',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Nestled in a bustling city, this modern high-rise apartment offers sweeping skyline views and endless energy. From the balcony, neon lights flicker, and the hum of life below creates an electrifying atmosphere. Trendy cafes, restaurants, and cultural hotspots are just a short walk away.',
     image: House10,
     imageLg: House10Lg,
     country: 'Canada',
@@ -333,7 +333,7 @@ export const housesData = [
     type: 'House',
     name: 'House 11',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Sitting on the edge of a tranquil lake, this wooden retreat provides the perfect setting for relaxation and reflection. Ducks glide effortlessly across the glassy water, and a private dock invites lazy afternoons of fishing. In the evenings, the setting sun casts golden ripples over the serene surface.',
     image: House11,
     imageLg: House11Lg,
     country: 'United States',
@@ -354,7 +354,7 @@ export const housesData = [
     type: 'House',
     name: 'House 12',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Surrounded by vast rolling fields and endless meadows, this countryside farmhouse is a haven of peace. Wildflowers bloom along the fences, and horses graze lazily under the wide blue sky. The gentle rustling of trees and the distant mooing of cattle complete the idyllic rural setting.',
     image: House12,
     imageLg: House12Lg,
     country: 'Canada',
@@ -375,7 +375,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 16',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Perched on a hilltop, this grand estate commands breathtaking views of the valley below. The rising sun bathes the landscape in golden light, while cool breezes sweep through the open terraces. At night, the twinkling city lights in the distance create a mesmerizing backdrop.',
     image: Apartment4,
     imageLg: Apartment4Lg,
     country: 'Canada',
@@ -396,7 +396,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 17',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Hidden deep within an ancient forest, this secluded cabin offers a magical escape from the modern world. Towering trees form a natural canopy, filtering sunlight into soft, golden beams. The sounds of rustling leaves and chirping birds bring a sense of serenity and harmony.',
     image: Apartment5,
     imageLg: Apartment5Lg,
     country: 'United States',
@@ -417,7 +417,7 @@ export const housesData = [
     type: 'Apartament',
     name: 'Apartament 18',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
+      'Built in the heart of a sun-soaked desert, this adobe-style home blends seamlessly with the rugged landscape. The warm, earthen walls retain coolness against the scorching sun, while cacti and wildflowers dot the surroundings. At night, a blanket of stars stretches endlessly over the vast, open sky.',
     image: Apartment6,
     imageLg: Apartment6Lg,
     country: 'Canada',
